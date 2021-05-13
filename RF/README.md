@@ -30,15 +30,15 @@ Installation and running has been tested in Ubuntu 18.04.4 LST with python 3.7.7
 
 + To predict PTM site using seq features, run the following command:
 
-​    python predict_rf.py  [input_file] seq
+    python predict_rf.py  [input_file] seq
 
 + To predict PTM site using str features, run the following command:
 
-​    python predict_rf.py [input_file] str
+    python predict_rf.py [input_file] str
 
 + To predict PTM site using dyn features, run the following command:
 
-​    python predict_rf.py  [input_file] dyn
+    python predict_rf.py  [input_file] dyn
 
 [input_file] is the user's test dataset, which is saved as an excel file. For standardization, the first column of excel represents Uniprot, the second column is the corresponding PDB, the third column is the residue type. The fourth to last column is the corresponding features.  The name and order of columns of input file should be consistent with the text_data_feature.xlsx in the demo folder of ./data.
 
