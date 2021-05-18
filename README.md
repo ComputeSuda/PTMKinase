@@ -8,7 +8,7 @@
 - [Installation Guide](#installation-guide)
   - [Dependencies](#dependencies)
   - [Download](#download)
-- [Instructions for Use](#Instructions for Use)
+- [Instructions for Use](#Instructions-for-Use)
 
 ## Overview
 
