@@ -44,4 +44,4 @@ Installation and running has been tested in Ubuntu 18.04.4 LST with python 3.7.7
 
 The predicted probability and predicted label are added to the last two columns of the input file and save it as out_file.xlsx  in the current folder. The label 0 indicates that this data belongs to other class. The 1 means that the data belongs PTM class. The 2 indicates that this data belongs to Bind class.
 
-### Training and testing data are provided in the folder of ./data.
+### Training and testing data are provided in the folder of data.
