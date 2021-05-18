@@ -1,6 +1,6 @@
 # PTM Kinase
 
-## Contents of SGAD
+## Contents of PTMKinase
 
 - [Overview](#overview)
 - [Repo Contents](#repo-contents)
@@ -38,9 +38,9 @@ All the calculations were done with Ubuntu 18.04.4 LST and python 3.7.7.
 More details to run deep learning and random forests models can be found at the corresponding
 folders.
 
-- [Instructions for Use](#Instructions for Use)
+## Instructions for Use
 
-*to be added*
+Mode details can be found at [DL](DL) and [RF](RF).
 
 ## Download
 
