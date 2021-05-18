@@ -1,12 +1,4 @@
-# PTM Kinase Project Repo
-
-This repository contains the tools in python to predict PTM Kinase:
-
-- PTM prediction using deep learning method: refer to ./DL
-
-- PTM prediction using random forest method: refer to ./RF
-
-## This project is licensed under the terms of the GNU General Public License v3.0 license.
+# PTM Kinase
 
 ## Contents of SGAD
 
@@ -18,7 +10,7 @@ This repository contains the tools in python to predict PTM Kinase:
   - [Download](#download)
 - [Instructions for Use](#Instructions for Use)
 
-# Overview
+## Overview
 
 Post-translational modifications (PTMs) on protein contribute to variouse protein isoforms with
 little evolutionary cost, regulating protein functions in cell signaling events and being involved 
@@ -30,18 +22,18 @@ PTMs in the well known targets—kinase dataset. We demonstrate that machine lea
 classify the PTM sites and active sites compared with other residues, especially with the dynamics 
 features.
   
-# Repo Contents
+## Repo Contents
 
 - [DL](DL): PTM prediction using deep learning method.
 - [RF](RF): PTM prediction using random forest method.
 
 For more details, please see each subfolder.
 
-# System Requirements
+## System Requirements
 
-*To be added*
+All the calculations were done with Ubuntu 18.04.4 LST and python 3.7.7.
 
-# Installation Guide
+## Installation Guide
 
 More details to run deep learning and random forests models can be found at the corresponding
 folders.
