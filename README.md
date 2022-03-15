@@ -52,9 +52,8 @@ git@github.com:ComputeSuda/PTMKinase.git
 
 For usage of the package and associated manuscript, please cite according to the enclosed.
 ```
-Sijie Yang, et al, PTM inspired drug design in kinase family
-Characterization of structural dynamics of PTMs in kinase family, Journal Name, 
-Date, Volume, Page. (to be updated)
+Sijie Yang
+Fei Zhu, et al, Dynamics of Post-Translational Modification Inspires Drug Design in the Kinase Family， J Med Chem，2021, 64, 15111−15125
 ```
 
 This repository is distributed under [GNU General Public License v3.0](LICENSE).
